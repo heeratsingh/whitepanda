@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "whitepandaapi",
+  "private_key_id": "4d91c760e2d5df04623c57baf462379079ac555c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEiQd3RI1ESu8c\nZ/ojXRZidyQ/z6hJD0r7TbXt4V8gFDpDfWphiTUrCyYzMiSjwXaCt+1d3YSaX/aX\nyCADjHL7xjitXOxd8mvH64/O69N6G+rZ40x/S36LYeUrCpKJpVvEFlpsR9qJd0MH\nxv6GCLitsjH/cY6B7gNST016yVLEvXQgh4iswIvSVljEpLqt36QGHZ0fK9L3Dz04\n6JnV0QMVC1idCtf9J90TcJKzvl8iVTs/y8QSJa8bkWkW66TRZWHqm7/DEazZRXvX\nk66jrSShEzF/l6ZduyPI7olv+imBdFEKV3EM4iVe3MCyY7DPuSoc9oESwH1joAzA\nRdsfkIxbAgMBAAECggEAEaNAjcYTrXjSG6kDLFBK1XxevvFKZ4AdWQ9Az//lUxIt\npmfnd6hiIqJGA9swqZePpKyP+1gJcfdBwJ5frSHaIdlItdo8hjPe01rDFa1ZVcCS\no4pAD759NVIMSIAS5ZJ2+VKOO+B47tRKqjSEHBBFTqVK0mNlCCkNmEHwsJ/Hs0sr\nBcnEoSBTomw8SayYlgk03iaES2eAm+yyrgpoL6bSVtUpaKOrDWR7mi/NpKGVgnBN\nYL50YAFi0H/3Bq9bGsWCnkPMSf2AciYVFgvd4uasKnwVdXViIbGAtJX3hh/SFwcF\n7XraW+m+LfZN1N1yRUo57c2PA2SShXyNkt3po1qXbQKBgQDrUmCxpGutYaoA2wdi\nxXtNVCfY3mWzjDKnc7Gox7o48ULFyohUICTb88sIHYFQ6czxJP/AZXYHQou4JZ4r\nLqKFW0boEGIHRbPg2t1FP7BGdWd2ORb54gXPJCWykrOBj8V7qXJlYk8qpO/9DEv0\n7xky65FHx/qUGAb3a4HmgfdFzQKBgQDVziOZ0UA54MfofTenk7Li1Zdh1+2JA/O8\niru1cXWRjIH8L7fTlEGHuKrhd953fPxWrohTZQ1gKjVZ8t/ttwSGmu9QqrVJRbiB\n+cbNYXBcrEe7eCxLSR/5eVZ4GoY3hbByKP6lY8Cc2lS2zRoZpQQF51BtHL2Ds8v2\nhJn5ZFRyxwKBgQDTQdIiyFwOfDYVrIx15JosMtfO/uFIjh1PbTLaNev9gMIUNR2s\ngGr2t2fXMj3MuQhOmIutWqjaHai3ObZESAqJNAd1AHgw1SeGPpYUu/dxWab3YIs6\n6+mRK39YUBEsyDhfKyDS2a3+t7Hnd6mdCyWRLB/x1Bsl5mgiqPYmTRkDJQKBgDEl\nvqdII6RqWGnIBvgdipx8Dt1t/mtlniy0E2wlFaqMiwDGk1IunVWujJFhtaDv+S2P\n10ScURPPAA6aNwF09bRffy2i4CNkxIIUQa/Ke0LCU4bzm/L+bzwwuUDIkBvJPoMv\ni0HHiWpFAf43bY2BkkgtIR7D4YiZ1wPm/WIHvyXXAoGBAKWgPruMc1aCFjE6AkHo\nisf6umXeH2fnLnL7CqQM6At/CFpRwYufsQZ6lV3+4iXpSlOiGvk0/9fiW6r+yxwP\njG7Kucsx4cSCQBN2OGomux3QZQ4rE1ZG6qK8X1vmXGKCDZWPg0qvqRtA0BcntIWL\noSXP4dC2i/W+Vhrkzj6TUma+\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-z5nkj@whitepandaapi.iam.gserviceaccount.com",
+  "client_id": "114924302732728675771",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-z5nkj%40whitepandaapi.iam.gserviceaccount.com"
+}
